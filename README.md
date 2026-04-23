@@ -1,4 +1,4 @@
-# 🚀 MERN Stack Practice - Phase 1
+#  MERN Stack Practice-1
 
 This repository is dedicated to mastering the **MERN (MongoDB, Express, React, Node.js)** stack. 
 
@@ -6,7 +6,7 @@ Currently, the project focuses on building a solid **Frontend Foundation** using
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 A multi-page layout designed for clean navigation and responsive design:
 
 | File | Description |
@@ -20,14 +20,14 @@ A multi-page layout designed for clean navigation and responsive design:
 
 ---
 
-## 🛠️ Built With
+##  Built With
 * **HTML5:** Semantic structure for SEO and accessibility.
 * **CSS3:** Custom layouts with a focus on responsiveness.
 * **JavaScript:** Vanilla JS for future interactive components.
 
 ---
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 1. **Clone the repo:**
    ```bash
    git clone [https://github.com/Shrinidhii44/PracticeMERN.git](https://github.com/Shrinidhii44/PracticeMERN.git)
